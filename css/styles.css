@@ -1,0 +1,212 @@
+
+*{
+	margin:0;
+	padding:0;
+}
+.wrapper{
+	width: 90%;
+	margin: auto;
+	margin-top: 53px;
+}
+.logo{
+	width:30%;
+	float:left;
+}
+.menu{
+	width: 65%;
+	float: right;
+}
+.menu ul{
+	list-style: none;
+}
+.menu ul li{
+	text-transform: uppercase;
+	float: right;
+	margin-right: 82px;
+}
+.menu ul li:first-child{
+	margin-right: 0px;
+}
+.img{
+	margin:auto;
+	width: 90%;
+}
+.img img{
+	width: 100%;
+}
+.photodiary{
+	width: 80%;
+	margin:auto;
+	margin-top: 50px;
+}
+.photodiary h4{
+	text-transform: uppercase;
+	font-size:14px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.photodiary h1{
+	margin-bottom: 30px;
+}
+.photodiary p{
+	margin-bottom: 30px;
+	line-height: 30px;
+	/* color: red; */
+}
+.service{
+	width: 80%;
+	margin:auto;
+	overflow: hidden;
+}
+.serviceone{
+	width: 45%;
+	float: left;
+}
+.serviceone img{
+	width: 100%;
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+.serviceone h4{
+	margin bottom:20px;
+}
+.serviceone h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.servicetwo{
+	float: right;
+	width:45%;
+}
+.servicetwo img{
+	width: 100%;
+	margin-top:20px;
+	margin-bottom: 20px;
+
+}
+.servicertwo h4{
+	margin bottom:20px;
+}
+.servicetwo h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.servicethree{
+	width: 45%;
+	float: left;
+}
+.servicethree h4{
+	margin bottom:20px;
+}
+.servicethree h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.servicethree img{
+	width: 100%;
+	margin-top:20px;
+	margin-bottom: 20px;
+
+}
+
+.servicefour{
+	width: 45%;
+	float: right;
+}
+.servicefour h4{
+	margin-bottom: 20px;
+}
+.servicefour h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.servicefour img{
+	width: 100%;
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+.newsletter{
+	background-color: gray;
+	height: 200px;
+}
+.news {
+	padding-top: 80px;
+	text-align: center;
+}
+.news input{
+	margin: auto;
+	border: none;
+	background-color: gray;
+	border-bottom: 1px solid black;
+	width: 305px;
+}
+.news input img {
+	background-color: gray;
+}
+.navigation{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+	margin-top: 74px;
+}
+.navone{
+	
+	width: 45%;
+	float: left;
+}
+.navone img{
+	width: 100%;
+}
+.navtwo{
+	width: 45%;
+	float: right;
+}
+.navtwo img{
+	width: 100%;
+}
+.Load{
+	margin:auto;
+	margin left: 2;
+	margin-right: 200px;
+}
+.square_btn{
+	position: relative;
+	display: inline-block;
+	padding: 15px 20px;
+	text-decoration: none;
+	color:green;
+	border: 1px solid black;
+	background:#F0F0F0;
+	text-align: center;
+	margin-left: 625px;
+	margin-top: 150px;
+}
+.footer{
+	background-color: #ABB1BA;
+	height: 124px;
+	overflow: hidden;
+
+}
+.trems{
+	float: left;
+	margin-top: 71px;
+
+}
+.trems ol{
+	list-style: none;
+}
+.trems ol li{
+	float: left;
+	margin-left: 30px;
+}
+.contact{
+	float: right;
+}
+.contact ol{
+	list-style: none;
+}
+.contact ol li{
+	float: right;
+	margin-left: 99px;
+    margin-top: 71px;
+}
